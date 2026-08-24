@@ -100,13 +100,13 @@ func check(_ ok: Bool, _ what: String, _ detail: String = "") {
 
 // ── Continuity ──────────────────────────────────────────────────────
 @MainActor func testContinuity() {
-    let eleanor = Entity(kind: .character, name: "Nell Kerrigan")
-    let elenor  = Entity(kind: .character, name: "Nel Kerrigan")   // one edit away
+    let nell = Entity(kind: .character, name: "Nell Kerrigan")
+    let nel  = Entity(kind: .character, name: "Nel Kerrigan")   // one edit away
     let facts = [
-        Fact(entityID: eleanor.id, key: "eyes", value: "brown"),
-        Fact(entityID: eleanor.id, key: "eyes", value: "green")
+        Fact(entityID: nell.id, key: "eyes", value: "brown"),
+        Fact(entityID: nell.id, key: "eyes", value: "green")
     ]
-    let issues = ContinuityCheck.run(facts: facts, cast: [eleanor, elenor],
+    let issues = ContinuityCheck.run(facts: facts, cast: [nell, nel],
                                      notes: [], documents: [], body: { _ in "" })
     check(issues.contains { $0.kind == .contradiction }, "contradiction flagged")
     check(issues.contains { $0.kind == .nameDrift }, "name drift flagged")
@@ -114,12 +114,12 @@ func check(_ ok: Bool, _ what: String, _ detail: String = "") {
     // Accepted facts stop nagging.
     var accepted = facts
     accepted[0].accepted = true; accepted[1].accepted = true
-    let quiet = ContinuityCheck.run(facts: accepted, cast: [eleanor],
+    let quiet = ContinuityCheck.run(facts: accepted, cast: [nell],
                                     notes: [], documents: [], body: { _ in "" })
     check(!quiet.contains { $0.kind == .contradiction }, "accepted facts stop flagging")
 
-    check(ContinuityCheck.editDistance("eleanor", "elenor") == 1, "edit distance 1")
-    check(ContinuityCheck.editDistance("eleanor", "zachary") >= 2, "edit distance far")
+    check(ContinuityCheck.editDistance("kerrigan", "kerigan") == 1, "edit distance 1")
+    check(ContinuityCheck.editDistance("kerrigan", "aiken") >= 2, "edit distance far")
 }
 
 // ── Structure overlay ───────────────────────────────────────────────
