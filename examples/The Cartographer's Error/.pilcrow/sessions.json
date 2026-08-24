@@ -1,0 +1,213 @@
+{
+  "sessions" : [
+    {
+      "ended" : "2026-08-12T10:47:20Z",
+      "energy" : 4,
+      "goalKind" : "unit",
+      "goalMet" : true,
+      "goalNote" : "Opened the book",
+      "goalValue" : 25,
+      "id" : "4DD804A8-B7AB-48B7-ADFC-CDA8E19D87BE",
+      "mood" : 2,
+      "nextLine" : "",
+      "nodeIDs" : [
+
+      ],
+      "place" : "",
+      "progressNote" : "Opened the book. Got Nell down to the village.",
+      "started" : "2026-08-12T10:10:00Z",
+      "wordsAdded" : 740,
+      "wordsCut" : 30
+    },
+    {
+      "ended" : "2026-08-13T11:45:10Z",
+      "energy" : 2,
+      "goalKind" : "unit",
+      "goalMet" : true,
+      "goalNote" : "Second pass on the opening",
+      "goalValue" : 25,
+      "id" : "DBFB1C4D-0C04-45F1-B883-304FCEAD4690",
+      "mood" : 4,
+      "nextLine" : "",
+      "nodeIDs" : [
+
+      ],
+      "place" : "",
+      "progressNote" : "Second pass on the opening. Cut the weather.",
+      "started" : "2026-08-13T11:10:00Z",
+      "wordsAdded" : 610,
+      "wordsCut" : 140
+    },
+    {
+      "ended" : "2026-08-14T10:35:00Z",
+      "energy" : 2,
+      "goalKind" : "unit",
+      "goalMet" : true,
+      "goalNote" : "Revision only",
+      "goalValue" : 25,
+      "id" : "98709E0A-92CA-4844-991F-22B2361F23DD",
+      "mood" : 2,
+      "nextLine" : "",
+      "nodeIDs" : [
+
+      ],
+      "place" : "",
+      "progressNote" : "Revision only. Removed the prologue entirely — it explained the ending.",
+      "started" : "2026-08-14T10:10:00Z",
+      "wordsAdded" : 0,
+      "wordsCut" : 420
+    },
+    {
+      "ended" : "2026-08-15T11:49:40Z",
+      "energy" : 2,
+      "goalKind" : "unit",
+      "goalMet" : true,
+      "goalNote" : "Mrs",
+      "goalValue" : 25,
+      "id" : "640CCF14-B199-4385-A9F2-576D2513BA5F",
+      "mood" : 2,
+      "nextLine" : "",
+      "nodeIDs" : [
+
+      ],
+      "place" : "",
+      "progressNote" : "Mrs. Aiken and the ledger, first draft.",
+      "started" : "2026-08-15T11:10:00Z",
+      "wordsAdded" : 880,
+      "wordsCut" : 60
+    },
+    {
+      "ended" : "2026-08-16T10:41:30Z",
+      "energy" : 4,
+      "goalKind" : "unit",
+      "goalMet" : true,
+      "goalNote" : "Reworked the tea scene",
+      "goalValue" : 25,
+      "id" : "C9C1ACB2-A312-40B1-ACC3-940C5EB3B75A",
+      "mood" : 4,
+      "nextLine" : "",
+      "nodeIDs" : [
+
+      ],
+      "place" : "",
+      "progressNote" : "Reworked the tea scene. Less arch.",
+      "started" : "2026-08-16T10:10:00Z",
+      "wordsAdded" : 390,
+      "wordsCut" : 230
+    },
+    {
+      "ended" : "2026-08-19T00:39:00Z",
+      "energy" : 2,
+      "goalKind" : "unit",
+      "goalMet" : true,
+      "goalNote" : "Evening, tired, but got the supervisor beat down",
+      "goalValue" : 25,
+      "id" : "17935029-37B9-4121-A2D8-BB9003F7C8E3",
+      "mood" : 2,
+      "nextLine" : "",
+      "nodeIDs" : [
+
+      ],
+      "place" : "",
+      "progressNote" : "Evening, tired, but got the supervisor beat down.",
+      "started" : "2026-08-19T00:10:00Z",
+      "wordsAdded" : 240,
+      "wordsCut" : 0
+    },
+    {
+      "ended" : "2026-08-19T10:46:40Z",
+      "energy" : 2,
+      "goalKind" : "unit",
+      "goalMet" : true,
+      "goalNote" : "Chapter two opening",
+      "goalValue" : 25,
+      "id" : "CBCAF7A1-D934-47B2-B799-30CF1C0F4AE4",
+      "mood" : 2,
+      "nextLine" : "",
+      "nodeIDs" : [
+
+      ],
+      "place" : "",
+      "progressNote" : "Chapter two opening.",
+      "started" : "2026-08-19T10:10:00Z",
+      "wordsAdded" : 700,
+      "wordsCut" : 80
+    },
+    {
+      "ended" : "2026-08-20T10:43:40Z",
+      "energy" : 4,
+      "goalKind" : "unit",
+      "goalMet" : true,
+      "goalNote" : "Trimmed chapter one hard",
+      "goalValue" : 25,
+      "id" : "9CE26BB2-8B17-437D-B1BA-247ECF046FFE",
+      "mood" : 2,
+      "nextLine" : "",
+      "nodeIDs" : [
+
+      ],
+      "place" : "",
+      "progressNote" : "Trimmed chapter one hard.",
+      "started" : "2026-08-20T10:10:00Z",
+      "wordsAdded" : 520,
+      "wordsCut" : 310
+    },
+    {
+      "ended" : "2026-08-21T11:46:00Z",
+      "energy" : 3,
+      "goalKind" : "unit",
+      "goalMet" : true,
+      "goalNote" : "The office scene",
+      "goalValue" : 25,
+      "id" : "B450E0E1-13E8-4997-9DB2-0A7322A6F224",
+      "mood" : 2,
+      "nextLine" : "",
+      "nodeIDs" : [
+
+      ],
+      "place" : "",
+      "progressNote" : "The office scene.",
+      "started" : "2026-08-21T11:10:00Z",
+      "wordsAdded" : 660,
+      "wordsCut" : 45
+    },
+    {
+      "ended" : "2026-08-22T10:42:10Z",
+      "energy" : 2,
+      "goalKind" : "unit",
+      "goalMet" : true,
+      "goalNote" : "Line edits through chapter one",
+      "goalValue" : 25,
+      "id" : "E7A2EA7C-8DBD-4537-A2C7-28F5385D4F23",
+      "mood" : 4,
+      "nextLine" : "",
+      "nodeIDs" : [
+
+      ],
+      "place" : "",
+      "progressNote" : "Line edits through chapter one.",
+      "started" : "2026-08-22T10:10:00Z",
+      "wordsAdded" : 430,
+      "wordsCut" : 180
+    },
+    {
+      "ended" : "2026-08-23T10:43:25Z",
+      "energy" : 4,
+      "goalKind" : "unit",
+      "goalMet" : true,
+      "goalNote" : "Started the second survey",
+      "goalValue" : 25,
+      "id" : "1DEC8056-5B9F-4124-B443-2CAC3A2F5BF7",
+      "mood" : 3,
+      "nextLine" : "The second survey team arrives, and the village has moved again.",
+      "nodeIDs" : [
+
+      ],
+      "place" : "",
+      "progressNote" : "Started the second survey.",
+      "started" : "2026-08-23T10:10:00Z",
+      "wordsAdded" : 505,
+      "wordsCut" : 90
+    }
+  ]
+}

@@ -1,0 +1,740 @@
+{
+  "annotations" : [
+    {
+      "author" : "A. Sample",
+      "body" : "This is the thesis. Make sure it earns its place rather than announcing itself.",
+      "created" : "2026-08-24T14:24:20Z",
+      "id" : "58421D62-F0A0-4318-B8A4-71750DE1776F",
+      "location" : 253,
+      "nodeID" : "B26CC394-DAF7-463F-A57D-D527DE14D7D0",
+      "quoted" : "a line on paper could be wrong",
+      "resolved" : false
+    }
+  ],
+  "appointments" : [
+    {
+      "eventID" : "",
+      "id" : "1C85B704-4565-4423-AF8A-DBA3ADBD5AFE",
+      "intention" : "get the survey team on the page",
+      "minutes" : 30,
+      "nodeID" : "5243262C-CCCC-426B-B1DF-1ECC91C2854D",
+      "place" : "the kitchen table",
+      "weekly" : true,
+      "when" : "2026-08-25T14:24:20Z"
+    }
+  ],
+  "author" : "A. Sample",
+  "beats" : [
+    {
+      "id" : "E5D6206E-1040-4947-BC13-812BBF7490AF",
+      "nodeID" : "B26CC394-DAF7-463F-A57D-D527DE14D7D0",
+      "text" : "Two surveys, two miles apart, both signed.",
+      "threadID" : "A5745A39-A667-4920-B5EA-3A5ECA6514C7",
+      "verb" : "Setup"
+    },
+    {
+      "id" : "EB10BE82-87E8-4527-8AF1-2B4FD0F747CF",
+      "nodeID" : "B26CC394-DAF7-463F-A57D-D527DE14D7D0",
+      "text" : "The sign has been repainted. Someone cares.",
+      "threadID" : "BBB3CBA1-45DA-47E1-8041-FDECEDA62EE1",
+      "verb" : "Setup"
+    },
+    {
+      "id" : "EF4AFB76-2CBA-4CD3-8A14-FE7610B78368",
+      "nodeID" : "2A92CDA1-21FC-412B-A4F0-0F89DD1CD8D4",
+      "text" : "The ledger, kept since 1949 in three hands.",
+      "threadID" : "BBB3CBA1-45DA-47E1-8041-FDECEDA62EE1",
+      "verb" : "Reveal"
+    },
+    {
+      "id" : "3893D4A0-EC53-47E7-97BC-C7F20CA7F7E6",
+      "nodeID" : "2A92CDA1-21FC-412B-A4F0-0F89DD1CD8D4",
+      "text" : "Eleven feet north-north-east.",
+      "threadID" : "A5745A39-A667-4920-B5EA-3A5ECA6514C7",
+      "verb" : "Escalate"
+    },
+    {
+      "id" : "A67108E4-FFBA-479B-AAC0-4599040D90E7",
+      "nodeID" : "090641BE-7E6A-4CA3-8341-4B14ABD5B498",
+      "text" : "\"Then it'll be six years.\"",
+      "threadID" : "E5809F4A-6D28-4BB3-BBFE-E3A9C3C16B79",
+      "verb" : "Turn"
+    }
+  ],
+  "cast" : [
+    {
+      "aliases" : [
+
+      ],
+      "citation" : "",
+      "citekey" : "",
+      "colorIndex" : 0,
+      "csl" : {
+        "accessed" : "",
+        "authors" : [
+
+        ],
+        "containerTitle" : "",
+        "doi" : "",
+        "edition" : "",
+        "editors" : [
+
+        ],
+        "id" : "",
+        "issue" : "",
+        "issued" : "",
+        "page" : "",
+        "publisher" : "",
+        "publisherPlace" : "",
+        "title" : "",
+        "type" : "book",
+        "url" : "",
+        "volume" : ""
+      },
+      "fields" : [
+        {
+          "id" : "4C982775-0E75-4EFF-9C61-E4B779F656CA",
+          "key" : "Age",
+          "long" : false,
+          "value" : "38"
+        },
+        {
+          "id" : "74B16667-74EE-41A2-82B5-79A1B1CDA4B9",
+          "key" : "Occupation",
+          "long" : false,
+          "value" : "Surveyor, Ordnance Survey"
+        },
+        {
+          "id" : "113163AF-4111-464C-A777-D1A50142D54F",
+          "key" : "Appearance",
+          "long" : true,
+          "value" : ""
+        },
+        {
+          "id" : "0B68C2A9-FA5E-46B7-80A6-D0CDB06943A2",
+          "key" : "Voice",
+          "long" : true,
+          "value" : ""
+        },
+        {
+          "id" : "7F59082B-2B96-44EC-A757-84650AFD99AF",
+          "key" : "Want",
+          "long" : true,
+          "value" : "To correct the map."
+        },
+        {
+          "id" : "3306DF60-8FBD-430B-8E63-0601C2E5FB90",
+          "key" : "Need",
+          "long" : true,
+          "value" : "To accept that the map was never the authority."
+        },
+        {
+          "id" : "7AE96D89-1155-4651-9ACF-1C2B1C01B350",
+          "key" : "Lie they believe",
+          "long" : true,
+          "value" : "That being right is the same as being useful."
+        },
+        {
+          "id" : "0437ECDE-4713-422E-9341-89879BEEDCEE",
+          "key" : "Wound",
+          "long" : true,
+          "value" : "Her father's farm, compulsorily purchased on a survey error nobody would admit to."
+        },
+        {
+          "id" : "DDEBD731-BF6D-4ADB-A067-FA7EE2528D58",
+          "key" : "Arc",
+          "long" : true,
+          "value" : ""
+        }
+      ],
+      "id" : "78D37A2A-4603-423E-B2BB-A6FCF61076ED",
+      "kind" : "character",
+      "name" : "Nell Kerrigan",
+      "permission" : "notApplicable",
+      "quotes" : [
+
+      ],
+      "role" : "Protagonist",
+      "summary" : "Thirty-eight. Nine years at the Ordnance Survey. Believes a line on paper is a promise.",
+      "url" : ""
+    },
+    {
+      "aliases" : [
+
+      ],
+      "citation" : "",
+      "citekey" : "",
+      "colorIndex" : 2,
+      "csl" : {
+        "accessed" : "",
+        "authors" : [
+
+        ],
+        "containerTitle" : "",
+        "doi" : "",
+        "edition" : "",
+        "editors" : [
+
+        ],
+        "id" : "",
+        "issue" : "",
+        "issued" : "",
+        "page" : "",
+        "publisher" : "",
+        "publisherPlace" : "",
+        "title" : "",
+        "type" : "book",
+        "url" : "",
+        "volume" : ""
+      },
+      "fields" : [
+        {
+          "id" : "9DFF0912-1AE5-49C2-9550-794B58B04047",
+          "key" : "Age",
+          "long" : false,
+          "value" : ""
+        },
+        {
+          "id" : "B457E6FE-0B52-4D01-9197-AA29238A986F",
+          "key" : "Occupation",
+          "long" : false,
+          "value" : ""
+        },
+        {
+          "id" : "5D078AD5-CC67-4791-BE63-07F92D648478",
+          "key" : "Appearance",
+          "long" : true,
+          "value" : ""
+        },
+        {
+          "id" : "5893747D-01A6-428E-A53B-442EB56465B2",
+          "key" : "Voice",
+          "long" : true,
+          "value" : ""
+        },
+        {
+          "id" : "C0CA68A8-F470-4790-874F-8BC9B409A55E",
+          "key" : "Want",
+          "long" : true,
+          "value" : "To hand the ledger on before she dies."
+        },
+        {
+          "id" : "A419F91E-2844-4748-8EBB-6A0ED4BEA486",
+          "key" : "Need",
+          "long" : true,
+          "value" : ""
+        },
+        {
+          "id" : "F8E1D1C0-C24D-49C8-B553-9F898719843B",
+          "key" : "Lie they believe",
+          "long" : true,
+          "value" : ""
+        },
+        {
+          "id" : "EB9AC8DA-C7F8-4F08-B090-C51D7DC4986E",
+          "key" : "Wound",
+          "long" : true,
+          "value" : ""
+        },
+        {
+          "id" : "A406DBD1-6073-4812-AD26-B37A1FB06CA9",
+          "key" : "Arc",
+          "long" : true,
+          "value" : ""
+        }
+      ],
+      "id" : "32C5BD99-66C9-4A99-AF7D-207E147CB90B",
+      "kind" : "character",
+      "name" : "Mrs. Aiken",
+      "permission" : "notApplicable",
+      "quotes" : [
+
+      ],
+      "role" : "The record keeper",
+      "summary" : "Eighties. Third keeper of the ledger. Entirely unbothered.",
+      "url" : ""
+    },
+    {
+      "aliases" : [
+
+      ],
+      "citation" : "",
+      "citekey" : "",
+      "colorIndex" : 3,
+      "csl" : {
+        "accessed" : "",
+        "authors" : [
+
+        ],
+        "containerTitle" : "",
+        "doi" : "",
+        "edition" : "",
+        "editors" : [
+
+        ],
+        "id" : "",
+        "issue" : "",
+        "issued" : "",
+        "page" : "",
+        "publisher" : "",
+        "publisherPlace" : "",
+        "title" : "",
+        "type" : "book",
+        "url" : "",
+        "volume" : ""
+      },
+      "fields" : [
+        {
+          "id" : "F23DDD15-D458-4A47-BE05-D9D8931B1CF2",
+          "key" : "Region",
+          "long" : false,
+          "value" : ""
+        },
+        {
+          "id" : "9FDFBEAE-4F28-4D21-830D-462BE1925A6D",
+          "key" : "Description",
+          "long" : true,
+          "value" : ""
+        }
+      ],
+      "id" : "76B742B9-4721-4EA5-A01B-E892ACAF5884",
+      "kind" : "place",
+      "name" : "Ardmore",
+      "permission" : "notApplicable",
+      "quotes" : [
+
+      ],
+      "role" : "The village",
+      "summary" : "Forty-one houses, a church, a petrol station. Moves.",
+      "url" : ""
+    }
+  ],
+  "citationStyle" : "chicagoNotes",
+  "claims" : [
+
+  ],
+  "created" : "2026-08-24T14:24:20Z",
+  "facts" : [
+    {
+      "accepted" : false,
+      "entityID" : "78D37A2A-4603-423E-B2BB-A6FCF61076ED",
+      "id" : "53F0DB73-4EF8-4D26-A164-9AAA5C7DC04E",
+      "key" : "years at the Survey",
+      "nodeID" : "B26CC394-DAF7-463F-A57D-D527DE14D7D0",
+      "value" : "nine"
+    },
+    {
+      "accepted" : false,
+      "entityID" : "76B742B9-4721-4EA5-A01B-E892ACAF5884",
+      "id" : "B74C4405-9218-4F2A-BD87-0090F865FD80",
+      "key" : "houses",
+      "nodeID" : "B26CC394-DAF7-463F-A57D-D527DE14D7D0",
+      "value" : "forty-one"
+    },
+    {
+      "accepted" : false,
+      "entityID" : "76B742B9-4721-4EA5-A01B-E892ACAF5884",
+      "id" : "81F1D833-E71D-4222-A5EA-E48443DC8784",
+      "key" : "houses",
+      "nodeID" : "090641BE-7E6A-4CA3-8341-4B14ABD5B498",
+      "value" : "thirty-nine"
+    }
+  ],
+  "formatVersion" : 1,
+  "id" : "9720448F-D227-46FA-9ABA-392ECC8115BC",
+  "kind" : "fiction",
+  "modified" : "2026-08-24T14:24:20Z",
+  "notes" : [
+    {
+      "body" : "Ardmore never moves while anyone is watching it move. Established, never explained.",
+      "colorIndex" : 2,
+      "id" : "3F506410-F911-484B-A0C2-7FDB365EE7DB",
+      "linkedNodeIDs" : [
+
+      ],
+      "linkedNoteIDs" : [
+        "16EA636F-9A57-431A-9D8B-36DC8E60B453"
+      ],
+      "tags" : [
+
+      ],
+      "title" : "The rule of the drift",
+      "x" : 90,
+      "y" : 80
+    },
+    {
+      "body" : "Every institution in this book trusts its own record over the thing the record describes.",
+      "colorIndex" : 0,
+      "id" : "16EA636F-9A57-431A-9D8B-36DC8E60B453",
+      "linkedNodeIDs" : [
+
+      ],
+      "linkedNoteIDs" : [
+
+      ],
+      "tags" : [
+
+      ],
+      "title" : "Maps as authority",
+      "x" : 350,
+      "y" : 190
+    },
+    {
+      "body" : "Ledger starts 1949. Surveys 1961 and 1972. Present day is 1983.",
+      "colorIndex" : 5,
+      "id" : "5FBEDA1C-0B9C-4F51-963D-DDA2F6469242",
+      "linkedNodeIDs" : [
+
+      ],
+      "linkedNoteIDs" : [
+
+      ],
+      "tags" : [
+
+      ],
+      "title" : "Timeline check",
+      "x" : 140,
+      "y" : 320
+    }
+  ],
+  "pageStyle" : {
+    "blinkCaret" : false,
+    "draftFaceID" : "literata",
+    "draftLineHeight" : 1.85,
+    "faceID" : "literata",
+    "firstLineIndent" : 1.6,
+    "focus" : "off",
+    "fontSize" : 19,
+    "lineHeight" : 1.72,
+    "measure" : 66,
+    "mode" : "draft",
+    "paragraphSpacing" : 0,
+    "showPageShadow" : true,
+    "smartSubstitutions" : true,
+    "theme" : "paper",
+    "typewriter" : true,
+    "typewriterAnchor" : 0.42
+  },
+  "root" : {
+    "children" : [
+      {
+        "children" : [
+          {
+            "children" : [
+
+            ],
+            "id" : "B26CC394-DAF7-463F-A57D-D527DE14D7D0",
+            "includeInCompile" : true,
+            "kind" : "document",
+            "slug" : "The Town That Moved",
+            "status" : "drafting",
+            "synopsis" : "Nell discovers Ardmore isn't where either survey says it is.",
+            "target" : 2500,
+            "threadIDs" : [
+
+            ],
+            "title" : "The Town That Moved",
+            "wordCount" : 240
+          },
+          {
+            "children" : [
+
+            ],
+            "id" : "2A92CDA1-21FC-412B-A4F0-0F89DD1CD8D4",
+            "includeInCompile" : true,
+            "kind" : "document",
+            "slug" : "Mrs. Aiken's Ledger",
+            "status" : "drafting",
+            "synopsis" : "The village has been keeping its own survey since 1949.",
+            "target" : 1800,
+            "threadIDs" : [
+
+            ],
+            "title" : "Mrs. Aiken's Ledger",
+            "wordCount" : 91
+          }
+        ],
+        "id" : "414F77EE-9A8F-4962-9719-F263CF182D0D",
+        "includeInCompile" : true,
+        "kind" : "folder",
+        "slug" : "Chapter One",
+        "status" : "outline",
+        "synopsis" : "",
+        "target" : 0,
+        "threadIDs" : [
+
+        ],
+        "title" : "Chapter One",
+        "wordCount" : 0
+      },
+      {
+        "children" : [
+          {
+            "children" : [
+
+            ],
+            "id" : "090641BE-7E6A-4CA3-8341-4B14ABD5B498",
+            "includeInCompile" : true,
+            "kind" : "document",
+            "slug" : "What the Office Said",
+            "status" : "outline",
+            "synopsis" : "The institution declines to be interested.",
+            "target" : 2000,
+            "threadIDs" : [
+
+            ],
+            "title" : "What the Office Said",
+            "wordCount" : 78
+          },
+          {
+            "children" : [
+
+            ],
+            "id" : "5243262C-CCCC-426B-B1DF-1ECC91C2854D",
+            "includeInCompile" : true,
+            "kind" : "document",
+            "slug" : "The Second Survey",
+            "status" : "outline",
+            "synopsis" : "Not written yet.",
+            "target" : 0,
+            "threadIDs" : [
+
+            ],
+            "title" : "The Second Survey",
+            "wordCount" : 0
+          }
+        ],
+        "id" : "EB6CD53E-2440-417D-A7C3-429ED996C4EF",
+        "includeInCompile" : true,
+        "kind" : "folder",
+        "slug" : "Chapter Two",
+        "status" : "outline",
+        "synopsis" : "",
+        "target" : 0,
+        "threadIDs" : [
+
+        ],
+        "title" : "Chapter Two",
+        "wordCount" : 0
+      }
+    ],
+    "id" : "11EAF80C-2185-4A67-A7E5-6073B09EB021",
+    "includeInCompile" : true,
+    "kind" : "folder",
+    "slug" : "Manuscript",
+    "status" : "outline",
+    "synopsis" : "",
+    "target" : 0,
+    "threadIDs" : [
+
+    ],
+    "title" : "Manuscript",
+    "wordCount" : 0
+  },
+  "structure" : {
+    "beats" : [
+      {
+        "done" : true,
+        "id" : "998C243B-768D-45BF-B412-ADDFF90200FE",
+        "name" : "Opening Image",
+        "nodeID" : "B26CC394-DAF7-463F-A57D-D527DE14D7D0",
+        "note" : "A snapshot of the before.",
+        "targetAt" : 0
+      },
+      {
+        "done" : true,
+        "id" : "1F472616-7F3A-4AA7-A4CF-DCA7E9C7E0B3",
+        "name" : "Theme Stated",
+        "nodeID" : "B26CC394-DAF7-463F-A57D-D527DE14D7D0",
+        "note" : "Someone says what the book is about, usually to a hero who isn't listening.",
+        "targetAt" : 0.05
+      },
+      {
+        "done" : true,
+        "id" : "F2B31C96-90EC-45A8-9409-350EC8F22A5A",
+        "name" : "Set-Up",
+        "nodeID" : "B26CC394-DAF7-463F-A57D-D527DE14D7D0",
+        "note" : "The world, the flaw, the thing that must change.",
+        "targetAt" : 0.07
+      },
+      {
+        "done" : false,
+        "id" : "568EAEC9-9C30-4426-B667-8D4D5EECF846",
+        "name" : "Catalyst",
+        "nodeID" : "2A92CDA1-21FC-412B-A4F0-0F89DD1CD8D4",
+        "note" : "The knock at the door.",
+        "targetAt" : 0.1
+      },
+      {
+        "done" : false,
+        "id" : "5B832AE8-2720-4E06-93F0-367EBC51F74E",
+        "name" : "Debate",
+        "nodeID" : "090641BE-7E6A-4CA3-8341-4B14ABD5B498",
+        "note" : "Should they? The last chance to refuse.",
+        "targetAt" : 0.13
+      },
+      {
+        "done" : false,
+        "id" : "4B9FE317-1C3D-4FE9-828E-863AB653761F",
+        "name" : "Break Into Two",
+        "note" : "They choose. The new world begins.",
+        "targetAt" : 0.2
+      },
+      {
+        "done" : false,
+        "id" : "683F030A-772B-4100-B3D9-BA57DBEC9CD3",
+        "name" : "B Story",
+        "note" : "The relationship that carries the theme.",
+        "targetAt" : 0.22
+      },
+      {
+        "done" : false,
+        "id" : "A2C47764-0AC2-4B9E-BAA4-35EF05FEDEB3",
+        "name" : "Fun and Games",
+        "note" : "The promise of the premise.",
+        "targetAt" : 0.3
+      },
+      {
+        "done" : false,
+        "id" : "48802BCB-F7E2-40D5-BFA4-9ADF27A246A2",
+        "name" : "Midpoint",
+        "note" : "False victory or false defeat. Stakes go up.",
+        "targetAt" : 0.5
+      },
+      {
+        "done" : false,
+        "id" : "35DEA522-B939-4330-91B2-DFD3925E2F0A",
+        "name" : "Bad Guys Close In",
+        "note" : "Pressure from outside and inside.",
+        "targetAt" : 0.6
+      },
+      {
+        "done" : false,
+        "id" : "8B7FDE11-F605-4669-B476-F4D6D7C1F6F6",
+        "name" : "All Is Lost",
+        "note" : "The whiff of death.",
+        "targetAt" : 0.75
+      },
+      {
+        "done" : false,
+        "id" : "4CFDA6BF-E363-4588-8AD0-3420093081C0",
+        "name" : "Dark Night of the Soul",
+        "note" : "The bottom.",
+        "targetAt" : 0.78
+      },
+      {
+        "done" : false,
+        "id" : "4CD150A2-5BFC-4AF4-89D5-AB87085EEF11",
+        "name" : "Break Into Three",
+        "note" : "The synthesis. They see it now.",
+        "targetAt" : 0.8
+      },
+      {
+        "done" : false,
+        "id" : "F95DF385-EA89-4640-A4C2-EE06BC7D466F",
+        "name" : "Finale",
+        "note" : "Storm the castle.",
+        "targetAt" : 0.85
+      },
+      {
+        "done" : false,
+        "id" : "605807A4-2A74-415F-B39C-4CEB499CD49E",
+        "name" : "Final Image",
+        "note" : "The after, answering the opening.",
+        "targetAt" : 0.99
+      }
+    ],
+    "templateID" : "save-the-cat"
+  },
+  "subtitle" : "A sample project",
+  "threads" : [
+    {
+      "archived" : false,
+      "colorIndex" : 0,
+      "id" : "A5745A39-A667-4920-B5EA-3A5ECA6514C7",
+      "name" : "Ardmore & the maps",
+      "order" : 0,
+      "payoff" : "It was never in one place",
+      "promise" : "Where is the village really"
+    },
+    {
+      "archived" : false,
+      "colorIndex" : 1,
+      "id" : "E5809F4A-6D28-4BB3-BBFE-E3A9C3C16B79",
+      "name" : "Nell against the office",
+      "order" : 0,
+      "payoff" : "",
+      "promise" : "Who gets to say what's true"
+    },
+    {
+      "archived" : false,
+      "colorIndex" : 2,
+      "id" : "BBB3CBA1-45DA-47E1-8041-FDECEDA62EE1",
+      "name" : "The record keepers",
+      "order" : 0,
+      "payoff" : "",
+      "promise" : "Somebody has been paying attention all along"
+    }
+  ],
+  "timeline" : [
+    {
+      "colorIndex" : 2,
+      "entityIDs" : [
+
+      ],
+      "id" : "B0A95C3D-E287-43CF-8631-18C5F1545749",
+      "note" : "",
+      "storyDate" : "March 1949",
+      "storyOrder" : 1,
+      "title" : "The ledger is begun"
+    },
+    {
+      "colorIndex" : 0,
+      "entityIDs" : [
+
+      ],
+      "id" : "F672D4CE-C8A8-4244-81D1-241A22F57B9D",
+      "note" : "",
+      "storyDate" : "1961",
+      "storyOrder" : 2,
+      "title" : "First survey files Ardmore east"
+    },
+    {
+      "colorIndex" : 0,
+      "entityIDs" : [
+
+      ],
+      "id" : "179B83E8-DA59-4F99-84AC-5B1520DC2194",
+      "note" : "",
+      "storyDate" : "1972",
+      "storyOrder" : 3,
+      "title" : "Second survey files it west"
+    },
+    {
+      "colorIndex" : 1,
+      "entityIDs" : [
+
+      ],
+      "id" : "AAE0A157-04D7-47E4-A3B7-F4197446C432",
+      "nodeID" : "B26CC394-DAF7-463F-A57D-D527DE14D7D0",
+      "note" : "",
+      "storyDate" : "April 1983",
+      "storyOrder" : 4,
+      "title" : "Nell walks down and looks"
+    },
+    {
+      "colorIndex" : 2,
+      "entityIDs" : [
+
+      ],
+      "id" : "BEA06209-39C1-4F38-8C89-D0E1AAD094BF",
+      "nodeID" : "2A92CDA1-21FC-412B-A4F0-0F89DD1CD8D4",
+      "note" : "",
+      "storyDate" : "April 1983",
+      "storyOrder" : 5,
+      "title" : "She reads the ledger"
+    }
+  ],
+  "title" : "The Cartographer's Error",
+  "wordTarget" : 90000
+}

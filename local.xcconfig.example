@@ -1,0 +1,10 @@
+// Local Xcode build settings — copy to `local.xcconfig` and fill in.
+// `local.xcconfig` is gitignored so team-specific values stay out of the repo.
+
+// Your Apple Developer Team ID (10 chars). Needed to sign with Developer ID
+// so the app runs on other Macs without a Gatekeeper warning. Leave empty to
+// build and run locally with ad-hoc signing.
+DEVELOPMENT_TEAM =
+
+// Optional bundle identifier override.
+// PRODUCT_BUNDLE_IDENTIFIER = com.yourorg.quire

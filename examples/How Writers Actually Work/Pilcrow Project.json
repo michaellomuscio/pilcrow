@@ -1,0 +1,609 @@
+{
+  "annotations" : [
+
+  ],
+  "appointments" : [
+
+  ],
+  "author" : "A. Sample",
+  "beats" : [
+    {
+      "id" : "08E72416-65EC-46B7-96BB-25E3C7012066",
+      "nodeID" : "C4C87777-8007-4B37-954E-503E2A9E6648",
+      "text" : "The mantra, and where it comes from.",
+      "threadID" : "B8D05F2C-D22A-4F0E-A619-83B59D1BEF0B",
+      "verb" : "Introduce"
+    },
+    {
+      "id" : "D26FC7EE-8F40-4E77-B4DA-11DCFA7BF88F",
+      "nodeID" : "C4C87777-8007-4B37-954E-503E2A9E6648",
+      "text" : "Implementation intentions and the progress principle.",
+      "threadID" : "EFC3F240-57FF-4E9F-8875-7F8901726E1B",
+      "verb" : "Support"
+    },
+    {
+      "id" : "17F9EFB1-E789-4429-8288-D8B5C6B90919",
+      "nodeID" : "4245559E-1E77-4242-90E1-23882CF21165",
+      "text" : "BASE as a diagnostic.",
+      "threadID" : "EFC3F240-57FF-4E9F-8875-7F8901726E1B",
+      "verb" : "Complicate"
+    }
+  ],
+  "cast" : [
+    {
+      "aliases" : [
+
+      ],
+      "citation" : "",
+      "citekey" : "sword2016",
+      "colorIndex" : 0,
+      "csl" : {
+        "accessed" : "",
+        "authors" : [
+          {
+            "family" : "Sword",
+            "given" : "Helen"
+          }
+        ],
+        "containerTitle" : "International Journal for Academic Development",
+        "doi" : "10.1080\/1360144X.2016.1210153",
+        "edition" : "",
+        "editors" : [
+
+        ],
+        "id" : "sword2016",
+        "issue" : "4",
+        "issued" : "2016",
+        "page" : "312-322",
+        "publisher" : "",
+        "publisherPlace" : "",
+        "title" : "‘Write every day!’: a mantra dismantled",
+        "type" : "article-journal",
+        "url" : "",
+        "volume" : "21"
+      },
+      "fields" : [
+        {
+          "id" : "998A090C-B6ED-40FA-B43C-915F278473D9",
+          "key" : "Author",
+          "long" : false,
+          "value" : ""
+        },
+        {
+          "id" : "86997DAD-4A73-4944-B8EA-5BD1FF17FBE6",
+          "key" : "Year",
+          "long" : false,
+          "value" : ""
+        },
+        {
+          "id" : "18AB8B46-896E-43F5-9FD2-0F913BA0FB86",
+          "key" : "Publication",
+          "long" : false,
+          "value" : ""
+        },
+        {
+          "id" : "8C457AA8-3BA0-4013-82BB-F9E58FA02B74",
+          "key" : "Pages",
+          "long" : false,
+          "value" : ""
+        },
+        {
+          "id" : "41D325FE-A57C-441F-B168-CC7B08162A4B",
+          "key" : "Credibility",
+          "long" : true,
+          "value" : ""
+        },
+        {
+          "id" : "C5DCADA4-77D8-4759-9C70-D4C7B75A821F",
+          "key" : "What it supports",
+          "long" : true,
+          "value" : ""
+        }
+      ],
+      "id" : "A8A54A0F-08F9-45B6-B490-6E36CAA27F63",
+      "kind" : "source",
+      "name" : "‘Write every day!’: a mantra dismantled",
+      "permission" : "onRecord",
+      "quotes" : [
+
+      ],
+      "role" : "Helen Sword",
+      "summary" : "",
+      "url" : ""
+    },
+    {
+      "aliases" : [
+
+      ],
+      "citation" : "",
+      "citekey" : "boice1989",
+      "colorIndex" : 3,
+      "csl" : {
+        "accessed" : "",
+        "authors" : [
+          {
+            "family" : "Boice",
+            "given" : "Robert"
+          }
+        ],
+        "containerTitle" : "Behaviour Research and Therapy",
+        "doi" : "",
+        "edition" : "",
+        "editors" : [
+
+        ],
+        "id" : "boice1989",
+        "issue" : "6",
+        "issued" : "1989",
+        "page" : "605-611",
+        "publisher" : "",
+        "publisherPlace" : "",
+        "title" : "Procrastination, busyness and bingeing",
+        "type" : "article-journal",
+        "url" : "",
+        "volume" : "27"
+      },
+      "fields" : [
+        {
+          "id" : "8D65CFBB-48A5-4926-8764-983D5C4F7C96",
+          "key" : "Author",
+          "long" : false,
+          "value" : ""
+        },
+        {
+          "id" : "C5D92E44-5547-4A2D-87B0-086A0BA975D7",
+          "key" : "Year",
+          "long" : false,
+          "value" : ""
+        },
+        {
+          "id" : "560E0143-27D9-4D3F-ADEC-E91F7748EA3C",
+          "key" : "Publication",
+          "long" : false,
+          "value" : ""
+        },
+        {
+          "id" : "87DCD68A-E256-4F83-B473-902D92327F25",
+          "key" : "Pages",
+          "long" : false,
+          "value" : ""
+        },
+        {
+          "id" : "D6720E61-0B14-4752-9A2D-0EE108827CD2",
+          "key" : "Credibility",
+          "long" : true,
+          "value" : ""
+        },
+        {
+          "id" : "1527FB91-35B8-4971-95CF-99B54F9A3C92",
+          "key" : "What it supports",
+          "long" : true,
+          "value" : ""
+        }
+      ],
+      "id" : "CCF7E700-1EDC-4183-BAA7-1F15A00D5842",
+      "kind" : "source",
+      "name" : "Procrastination, busyness and bingeing",
+      "permission" : "onRecord",
+      "quotes" : [
+
+      ],
+      "role" : "Robert Boice",
+      "summary" : "",
+      "url" : ""
+    },
+    {
+      "aliases" : [
+
+      ],
+      "citation" : "",
+      "citekey" : "gollwitzer2006",
+      "colorIndex" : 1,
+      "csl" : {
+        "accessed" : "",
+        "authors" : [
+          {
+            "family" : "Gollwitzer",
+            "given" : "Peter M."
+          }
+        ],
+        "containerTitle" : "Advances in Experimental Social Psychology",
+        "doi" : "",
+        "edition" : "",
+        "editors" : [
+
+        ],
+        "id" : "gollwitzer2006",
+        "issue" : "",
+        "issued" : "2006",
+        "page" : "69-119",
+        "publisher" : "",
+        "publisherPlace" : "",
+        "title" : "Implementation intentions and goal achievement: a meta-analysis of effects and processes",
+        "type" : "article-journal",
+        "url" : "",
+        "volume" : "38"
+      },
+      "fields" : [
+        {
+          "id" : "7F2EF4E4-37AA-4377-9E4D-6F3D00EA9BC5",
+          "key" : "Author",
+          "long" : false,
+          "value" : ""
+        },
+        {
+          "id" : "7E482A26-E3E0-40D8-B44C-31DB6DD3253B",
+          "key" : "Year",
+          "long" : false,
+          "value" : ""
+        },
+        {
+          "id" : "3209C821-BF7A-442A-A2DC-3FF1161A195C",
+          "key" : "Publication",
+          "long" : false,
+          "value" : ""
+        },
+        {
+          "id" : "188A017C-30AE-4D8E-A1F6-B74C55E05F1F",
+          "key" : "Pages",
+          "long" : false,
+          "value" : ""
+        },
+        {
+          "id" : "007B68A2-054F-4D15-984D-E8A371765562",
+          "key" : "Credibility",
+          "long" : true,
+          "value" : ""
+        },
+        {
+          "id" : "BFE186A3-516F-4E77-8A60-E06FCD9A9431",
+          "key" : "What it supports",
+          "long" : true,
+          "value" : ""
+        }
+      ],
+      "id" : "5BCB4C0C-A749-4F64-AEB7-91785B296F12",
+      "kind" : "source",
+      "name" : "Implementation intentions and goal achievement: a meta-analysis of effects and processes",
+      "permission" : "onRecord",
+      "quotes" : [
+
+      ],
+      "role" : "Peter M. Gollwitzer",
+      "summary" : "",
+      "url" : ""
+    },
+    {
+      "aliases" : [
+
+      ],
+      "citation" : "",
+      "citekey" : "amabile2011",
+      "colorIndex" : 5,
+      "csl" : {
+        "accessed" : "",
+        "authors" : [
+          {
+            "family" : "Amabile",
+            "given" : "Teresa"
+          },
+          {
+            "family" : "Kramer",
+            "given" : "Steven"
+          }
+        ],
+        "containerTitle" : "",
+        "doi" : "",
+        "edition" : "",
+        "editors" : [
+
+        ],
+        "id" : "amabile2011",
+        "issue" : "",
+        "issued" : "2011",
+        "page" : "",
+        "publisher" : "Harvard Business Review Press",
+        "publisherPlace" : "Boston",
+        "title" : "The Progress Principle",
+        "type" : "book",
+        "url" : "",
+        "volume" : ""
+      },
+      "fields" : [
+        {
+          "id" : "CD209C39-7CC1-4DB6-B5DC-919C450B4411",
+          "key" : "Author",
+          "long" : false,
+          "value" : ""
+        },
+        {
+          "id" : "0F2DF4C9-840E-4388-A06B-A80DE81CEA68",
+          "key" : "Year",
+          "long" : false,
+          "value" : ""
+        },
+        {
+          "id" : "4CCDCBE4-EB4A-46BE-9728-A8AE9C7F5019",
+          "key" : "Publication",
+          "long" : false,
+          "value" : ""
+        },
+        {
+          "id" : "2282EB44-7522-44FC-A8F1-7A52E73E86B6",
+          "key" : "Pages",
+          "long" : false,
+          "value" : ""
+        },
+        {
+          "id" : "DED5A5FC-7D35-4F3E-B44E-A40A432CB93A",
+          "key" : "Credibility",
+          "long" : true,
+          "value" : ""
+        },
+        {
+          "id" : "5D89CF99-9D3F-423F-BD3A-1F80DAFE31E9",
+          "key" : "What it supports",
+          "long" : true,
+          "value" : ""
+        }
+      ],
+      "id" : "878CAD54-2B09-4FCD-ADF0-3DD4F8AE82F5",
+      "kind" : "source",
+      "name" : "The Progress Principle",
+      "permission" : "onRecord",
+      "quotes" : [
+
+      ],
+      "role" : "Teresa Amabile and Steven Kramer",
+      "summary" : "",
+      "url" : ""
+    }
+  ],
+  "citationStyle" : "chicagoNotes",
+  "claims" : [
+    {
+      "id" : "36042C34-1A9D-4578-9257-03D3155C23EF",
+      "nodeID" : "C4C87777-8007-4B37-954E-503E2A9E6648",
+      "note" : "",
+      "sourceIDs" : [
+        "A8A54A0F-08F9-45B6-B490-6E36CAA27F63"
+      ],
+      "status" : "verified",
+      "strength" : "solid",
+      "text" : "Only about one academic in eight writes daily.",
+      "threadID" : "B8D05F2C-D22A-4F0E-A619-83B59D1BEF0B"
+    },
+    {
+      "id" : "6296EC5D-CFC8-4DB4-8895-E7A28775BDF9",
+      "nodeID" : "C4C87777-8007-4B37-954E-503E2A9E6648",
+      "note" : "n=10, self-selected, never replicated. Say so in the text.",
+      "sourceIDs" : [
+        "CCF7E700-1EDC-4183-BAA7-1F15A00D5842"
+      ],
+      "status" : "contested",
+      "strength" : "thin",
+      "text" : "Brief daily sessions raise output roughly fourfold.",
+      "threadID" : "B8D05F2C-D22A-4F0E-A619-83B59D1BEF0B"
+    },
+    {
+      "id" : "6032205B-987F-4342-A0E9-44B7663E6E85",
+      "nodeID" : "C4C87777-8007-4B37-954E-503E2A9E6648",
+      "note" : "",
+      "sourceIDs" : [
+        "5BCB4C0C-A749-4F64-AEB7-91785B296F12"
+      ],
+      "status" : "verified",
+      "strength" : "solid",
+      "text" : "Implementation intentions raise follow-through (d ≈ 0.65).",
+      "threadID" : "EFC3F240-57FF-4E9F-8875-7F8901726E1B"
+    },
+    {
+      "id" : "41CE0673-EB67-4DEB-A373-3FD16071823A",
+      "nodeID" : "C4C87777-8007-4B37-954E-503E2A9E6648",
+      "note" : "",
+      "sourceIDs" : [
+        "878CAD54-2B09-4FCD-ADF0-3DD4F8AE82F5"
+      ],
+      "status" : "verified",
+      "strength" : "solid",
+      "text" : "A sense of daily progress is the strongest predictor of good creative days.",
+      "threadID" : "EFC3F240-57FF-4E9F-8875-7F8901726E1B"
+    },
+    {
+      "id" : "36E66875-AD33-41A2-A0D0-E927403A0775",
+      "nodeID" : "4245559E-1E77-4242-90E1-23882CF21165",
+      "note" : "I believe this and cannot support it. Cut or find evidence.",
+      "sourceIDs" : [
+
+      ],
+      "status" : "unverified",
+      "strength" : "unsupported",
+      "text" : "Writers do their best work in the morning.",
+      "threadID" : "EFC3F240-57FF-4E9F-8875-7F8901726E1B"
+    }
+  ],
+  "created" : "2026-08-24T14:24:20Z",
+  "facts" : [
+
+  ],
+  "formatVersion" : 1,
+  "id" : "34EA0A3B-7421-4DFC-AB8A-7893434F977A",
+  "kind" : "nonfiction",
+  "modified" : "2026-08-24T14:24:20Z",
+  "notes" : [
+
+  ],
+  "pageStyle" : {
+    "blinkCaret" : false,
+    "draftFaceID" : "literata",
+    "draftLineHeight" : 1.85,
+    "faceID" : "literata",
+    "firstLineIndent" : 1.6,
+    "focus" : "off",
+    "fontSize" : 19,
+    "lineHeight" : 1.72,
+    "measure" : 66,
+    "mode" : "draft",
+    "paragraphSpacing" : 0,
+    "showPageShadow" : true,
+    "smartSubstitutions" : true,
+    "theme" : "paper",
+    "typewriter" : true,
+    "typewriterAnchor" : 0.42
+  },
+  "root" : {
+    "children" : [
+      {
+        "children" : [
+          {
+            "children" : [
+
+            ],
+            "id" : "C4C87777-8007-4B37-954E-503E2A9E6648",
+            "includeInCompile" : true,
+            "kind" : "document",
+            "slug" : "The Mantra",
+            "status" : "drafting",
+            "synopsis" : "The advice everyone repeats, and the evidence it doesn't have.",
+            "target" : 3000,
+            "threadIDs" : [
+
+            ],
+            "title" : "The Mantra",
+            "wordCount" : 182
+          },
+          {
+            "children" : [
+
+            ],
+            "id" : "4245559E-1E77-4242-90E1-23882CF21165",
+            "includeInCompile" : true,
+            "kind" : "document",
+            "slug" : "What Replaces It",
+            "status" : "outline",
+            "synopsis" : "BASE as a diagnostic instead of a rule.",
+            "target" : 2500,
+            "threadIDs" : [
+
+            ],
+            "title" : "What Replaces It",
+            "wordCount" : 62
+          }
+        ],
+        "id" : "042592BE-94BA-498E-9153-9624588EAEEE",
+        "includeInCompile" : true,
+        "kind" : "folder",
+        "slug" : "Chapter One",
+        "status" : "outline",
+        "synopsis" : "",
+        "target" : 0,
+        "threadIDs" : [
+
+        ],
+        "title" : "Chapter One",
+        "wordCount" : 0
+      }
+    ],
+    "id" : "44E9420A-1F61-49AA-B8BB-2C3745C94522",
+    "includeInCompile" : true,
+    "kind" : "folder",
+    "slug" : "Manuscript",
+    "status" : "outline",
+    "synopsis" : "",
+    "target" : 0,
+    "threadIDs" : [
+
+    ],
+    "title" : "Manuscript",
+    "wordCount" : 0
+  },
+  "structure" : {
+    "beats" : [
+      {
+        "done" : true,
+        "id" : "326A7D3D-FDE2-4389-9531-2333E38A28E4",
+        "name" : "The Problem",
+        "nodeID" : "C4C87777-8007-4B37-954E-503E2A9E6648",
+        "note" : "Named precisely, in the reader's own terms.",
+        "targetAt" : 0
+      },
+      {
+        "done" : false,
+        "id" : "3326EF6F-F579-40CE-B75D-EA1F287EA4DA",
+        "name" : "What It Costs",
+        "note" : "Make the stakes concrete and countable.",
+        "targetAt" : 0.14
+      },
+      {
+        "done" : false,
+        "id" : "C0838DA4-002E-4FA0-9370-53B00BA40331",
+        "name" : "Why the Usual Fixes Fail",
+        "nodeID" : "4245559E-1E77-4242-90E1-23882CF21165",
+        "note" : "Earn the right to propose something else.",
+        "targetAt" : 0.28
+      },
+      {
+        "done" : false,
+        "id" : "80FE501D-AF8B-4CFB-865D-B5CCF641E64A",
+        "name" : "The Idea",
+        "note" : "State it in one sentence before defending it.",
+        "targetAt" : 0.44
+      },
+      {
+        "done" : false,
+        "id" : "C6617FBD-ED24-4BFD-91BA-E794C09F6F27",
+        "name" : "The Evidence",
+        "note" : "The load-bearing part.",
+        "targetAt" : 0.56
+      },
+      {
+        "done" : false,
+        "id" : "7F80152E-6CDF-4F58-9B73-D24C670A6565",
+        "name" : "Objections",
+        "note" : "The strongest ones, stated fairly.",
+        "targetAt" : 0.7
+      },
+      {
+        "done" : false,
+        "id" : "90EE151C-C0CF-4B19-9C38-D4F16828DE93",
+        "name" : "How to Apply It",
+        "note" : "What the reader does Monday.",
+        "targetAt" : 0.85
+      },
+      {
+        "done" : false,
+        "id" : "DD4C3F2C-3F5D-45F6-83D8-7E6E618C3ACF",
+        "name" : "What Changes",
+        "note" : "The world if this is right.",
+        "targetAt" : 0.95
+      }
+    ],
+    "templateID" : "problem-solution"
+  },
+  "subtitle" : "A sample project",
+  "threads" : [
+    {
+      "archived" : false,
+      "colorIndex" : 0,
+      "id" : "B8D05F2C-D22A-4F0E-A619-83B59D1BEF0B",
+      "name" : "The evidence is thin",
+      "order" : 0,
+      "payoff" : "And the repetition is itself the problem",
+      "promise" : "The most repeated writing advice rests on very little"
+    },
+    {
+      "archived" : false,
+      "colorIndex" : 1,
+      "id" : "EFC3F240-57FF-4E9F-8875-7F8901726E1B",
+      "name" : "What actually helps",
+      "order" : 0,
+      "payoff" : "",
+      "promise" : "Some things do survive scrutiny"
+    }
+  ],
+  "timeline" : [
+
+  ],
+  "title" : "How Writers Actually Work",
+  "wordTarget" : 0
+}

@@ -1,0 +1,69 @@
+name: Pilcrow
+options:
+  bundleIdPrefix: com.lomusciolabs
+  deploymentTarget:
+    macOS: "14.0"
+  developmentLanguage: en
+  groupSortPosition: top
+  generateEmptyDirectories: false
+  createIntermediateGroups: true
+
+settings:
+  base:
+    SWIFT_VERSION: "5.9"
+    CODE_SIGN_STYLE: Automatic
+    ENABLE_USER_SCRIPT_SANDBOXING: YES
+    GENERATE_INFOPLIST_FILE: NO
+    SWIFT_STRICT_CONCURRENCY: minimal
+    DEAD_CODE_STRIPPING: YES
+
+configFiles:
+  Debug: local.xcconfig
+  Release: local.xcconfig
+
+targets:
+  Pilcrow:
+    type: application
+    platform: macOS
+    sources:
+      - path: Pilcrow
+        excludes:
+          - "Resources/Fonts"
+          - "Resources/Fonts/**"
+      - path: Pilcrow/Resources/Fonts
+        type: folder
+        buildPhase: resources
+    entitlements:
+      path: Pilcrow/Pilcrow.entitlements
+      properties:
+        com.apple.security.app-sandbox: false
+        com.apple.security.files.user-selected.read-write: true
+        com.apple.security.automation.apple-events: false
+    info:
+      path: Pilcrow/Info.plist
+      properties:
+        CFBundleName: Pilcrow
+        CFBundleDisplayName: Pilcrow
+        CFBundleShortVersionString: "0.1.0"
+        CFBundleVersion: "1"
+        CFBundlePackageType: APPL
+        LSMinimumSystemVersion: "14.0"
+        LSApplicationCategoryType: public.app-category.productivity
+        NSHumanReadableCopyright: "Lomuscio Labs"
+        NSHighResolutionCapable: true
+        NSSupportsAutomaticTermination: false
+        NSSupportsSuddenTermination: false
+        ATSApplicationFontsPath: Fonts
+        NSPrincipalClass: NSApplication
+        NSCalendarsUsageDescription: Pilcrow puts your writing appointments on your calendar, so the plan lives where you'll actually see it.
+        NSCalendarsWriteOnlyAccessUsageDescription: Pilcrow adds writing appointments to your calendar. It never reads your other events.
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.lomusciolabs.pilcrow
+        MACOSX_DEPLOYMENT_TARGET: "14.0"
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+        ENABLE_PREVIEWS: YES
+        ENABLE_HARDENED_RUNTIME: YES
+        COMBINE_HIDPI_IMAGES: YES
+        SWIFT_EMIT_LOC_STRINGS: YES
